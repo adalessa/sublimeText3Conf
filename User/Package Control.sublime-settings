@@ -1,0 +1,24 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Colorsublime",
+		"Laravel 5 Artisan",
+		"Material Theme",
+		"Numix Theme",
+		"Origami",
+		"Package Control",
+		"PackageResourceViewer",
+		"PHP Companion",
+		"PHP Getters and Setters",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"SublimeLinter-php",
+		"SublimeLinter-phpcs",
+		"Theme - Soda"
+	]
+}

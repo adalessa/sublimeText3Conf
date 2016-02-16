@@ -1,0 +1,1 @@
+{"sublime_text": ">=3000", "description": "SublimeLinter plugin for PHP, using phpcs.", "url": "https://github.com/SublimeLinter/SublimeLinter-phpcs", "platforms": ["*"], "version": "1.0.6", "dependencies": []}

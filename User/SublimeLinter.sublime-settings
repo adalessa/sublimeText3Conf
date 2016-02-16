@@ -1,0 +1,23 @@
+{
+    "user": {
+        "linters": {
+            "jshint": {
+                "@disable": true,
+                "args": [],
+                "excludes": []
+            },
+            "php": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            },
+            "phpcs": {
+                "@disable": true,
+                "args": [],
+                "excludes": [],
+                "standard": "PSR2"
+            }
+        },
+        "show_errors_on_save": true,
+    }
+}
